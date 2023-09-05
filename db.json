@@ -1,7 +1,6 @@
 // 20230905142224
 // https://my-json-server.typicode.com/rayhanalt/dummyjamkrida
-
-{
+[
   "data": [
     {
       "id": 1,
@@ -69,5 +68,5 @@
     "created_at": null,
     "updated_at": null
   }
-}
+]
 
