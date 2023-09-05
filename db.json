@@ -1,0 +1,72 @@
+// 20230905142224
+// http://192.168.0.148:8000/api/jumlah_terjamin
+
+{
+  "data": [
+    {
+      "id": 1,
+      "tahun": 2022,
+      "jumlah": 150.6,
+      "nilai": 4,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "tahun": 2021,
+      "jumlah": 249.1,
+      "nilai": 4.1,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "tahun": 2020,
+      "jumlah": 110.66,
+      "nilai": 2.7,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 4,
+      "tahun": 2019,
+      "jumlah": 412.5,
+      "nilai": 2.4,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 5,
+      "tahun": 2018,
+      "jumlah": 250.42,
+      "nilai": 1.97,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 6,
+      "tahun": 2017,
+      "jumlah": 230.12,
+      "nilai": 5.32,
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "total": 1403.4,
+  "tahun_terakhir": {
+    "id": 6,
+    "tahun": 2017,
+    "jumlah": 230.12,
+    "nilai": 5.32,
+    "created_at": null,
+    "updated_at": null
+  },
+  "tahun_sebelum": {
+    "id": 5,
+    "tahun": 2018,
+    "jumlah": 250.42,
+    "nilai": 1.97,
+    "created_at": null,
+    "updated_at": null
+  }
+}
